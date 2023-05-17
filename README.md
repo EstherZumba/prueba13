@@ -3,4 +3,4 @@
 * Kevin Maldonado
 * Bruce Soto
 * Ricardo Teran
-
+* Raquel Zumba
