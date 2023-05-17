@@ -1,2 +1,6 @@
 ## Prueba de Software
-## Integrantes: Kevin M
+## Integrantes:  
+* Kevin Maldonado
+* Bruce Soto
+* Ricardo Teran
+* Raquel Zumba
